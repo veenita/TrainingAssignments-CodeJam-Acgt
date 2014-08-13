@@ -4,3 +4,6 @@ c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicStr
 c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\obj\Debug\PeriodicString.csprojResolveAssemblyReference.cache
 c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\obj\Debug\PeriodicString.exe
 c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\obj\Debug\PeriodicString.pdb
+C:\Users\vkadam\Documents\GitHub\TrainingAssignments-CodeJam-Acgt\PeriodicString\PeriodicString\bin\Debug\PeriodicString.exe.config
+C:\Users\vkadam\Documents\GitHub\TrainingAssignments-CodeJam-Acgt\PeriodicString\PeriodicString\obj\Debug\PeriodicString.exe
+C:\Users\vkadam\Documents\GitHub\TrainingAssignments-CodeJam-Acgt\PeriodicString\PeriodicString\obj\Debug\PeriodicString.pdb
