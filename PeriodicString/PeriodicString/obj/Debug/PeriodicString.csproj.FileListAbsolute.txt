@@ -1,0 +1,6 @@
+c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\bin\Debug\PeriodicString.exe.config
+c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\bin\Debug\PeriodicString.exe
+c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\bin\Debug\PeriodicString.pdb
+c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\obj\Debug\PeriodicString.csprojResolveAssemblyReference.cache
+c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\obj\Debug\PeriodicString.exe
+c:\users\vkadam\documents\visual studio 2012\Projects\PeriodicString\PeriodicString\obj\Debug\PeriodicString.pdb
